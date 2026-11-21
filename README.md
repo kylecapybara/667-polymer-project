@@ -1,4 +1,4 @@
-# Polymer wire coating project -- group 6
+# Polymer wire coating project
 
 This is a repo with...
 
