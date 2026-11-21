@@ -18,7 +18,7 @@ Power-law layers (the notebook model):
 
 Fluoropolymer (inside) and HT 2181 (outside), Cross rheology with a time-temperature
 shift and room-temperature shrinkage:
-    FEP = CrossLayer(eta0=3040, lam=0.0103, m=0.686, E_a=51.4e3, T_ref=603.15,
+    FEP = CrossLayer(eta0=3044, lam=0.0103, m=0.685, E_a=51.4e3, T_ref=603.15,
                      name="FEP 9835", rho_melt=1400, rho_solid=2100)
     HT = CrossLayer(eta0=12780, lam=1.0345, m=0.529, E_a=92.7e3, T_ref=573.15,
                     name="HT 2181", rho_melt=1400, rho_solid=1700)
